@@ -20,7 +20,7 @@ Three short deck videos with original NoBanks music.
 
 **Sovereign co-creation, the architecture of Poeta:**
 
-https://github.com/user-attachments/assets/56f205c1-fbae-4f56-b339-aa3e6bdb64b6
+https://github.com/user-attachments/assets/66089ac3-e0de-4a10-a926-39231647f435
 
 **The brand vision:**
 
