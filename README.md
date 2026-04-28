@@ -18,7 +18,7 @@ Not a "type a prompt, get a poem" generator. Not a Hallmark card. Not the AI cli
 
 Three short deck videos with original NoBanks music.
 
-**Your soul, our scaffolding (the architectural-emotion thesis):**
+**Sovereign co-creation, the architecture of Poeta:**
 
 https://github.com/user-attachments/assets/56f205c1-fbae-4f56-b339-aa3e6bdb64b6
 
