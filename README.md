@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **Your soul, our scaffolding (the architectural-emotion thesis):**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/56f205c1-fbae-4f56-b339-aa3e6bdb64b6
 
 **The brand vision:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/e2c53e38-7505-4cff-9217-bc7ac809149e
 
 **Poeta, the AI poetry studio for the moments that matter most:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/5b50ab4a-5b01-4009-81de-27a8f913312e
 
 ---
 
