@@ -2,7 +2,7 @@
 
 **The AI poetry studio for the moments that matter most. Real poetry, written with you, not for you.**
 
-[poeta.nohumannearby.com](https://poeta.nohumannearby.com)
+[poetaai.com](https://poetaai.com)
 
 ---
 
@@ -44,13 +44,13 @@ https://github.com/user-attachments/assets/5b50ab4a-5b01-4009-81de-27a8f913312e
 
 ## Stack
 
-Built with TypeScript, Node, local MLX inference. Deep memory of your previous pieces so subsequent work can reference your voice. Founder licenses available at [poeta.nohumannearby.com](https://poeta.nohumannearby.com).
+Built with TypeScript, Node, local MLX inference. Deep memory of your previous pieces so subsequent work can reference your voice. Founder licenses available at [poetaai.com](https://poetaai.com).
 
 ---
 
 ## Source private by design
 
-This is a portfolio repo. The Poeta source lives in a separate private repo. Everything you see here (deck videos, infographics) is the marketing surface for the live product at poeta.nohumannearby.com.
+This is a portfolio repo. The Poeta source lives in a separate private repo. Everything you see here (deck videos, infographics) is the marketing surface for the live product at poetaai.com.
 
 ---
 
